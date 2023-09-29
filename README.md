@@ -1,2 +1,3 @@
 # JsonExampleData
- Collection of json data examples
+
+Collection of json data examples

@@ -1,0 +1,107 @@
+[
+    {
+      "x": "2023-01-19",
+      "value": 2,
+      "name": "Visualizing Text Data Hierarchy with Word Trees"
+    },
+    {
+      "x": "2023-03-02",
+      "value": 2,
+      "name": "How to Build Venn Diagram Using JavaScript"
+    },
+    {
+      "x": "2023-03-16",
+      "value": 2,
+      "name": "How to Create Box-and-Whisker Plot in JavaScript"
+    },
+    {
+      "x": "2023-03-22",
+      "value": 2,
+      "name": "Creating Interactive Flow Maps with JavaScript"
+    },
+    {
+      "x": "2023-04-11",
+      "value": 2,
+      "name": "Building 3D Surface Plot in JavaScript"
+    },
+    {
+      "x": "2023-05-02",
+      "value": 2,
+      "name": "How to Create Candlestick Chart with JavaScript for Stock Analysis"
+    },
+    {
+      "x": "2023-05-18",
+      "value": 2,
+      "name": "How to Build Choropleth Map with JavaScript"
+    },
+    {
+      "x": "2023-05-30",
+      "value": 2,
+      "name": "How to Build Heatmap in JavaScript"
+    },
+    {
+      "x": "2023-06-13",
+      "value": 2,
+      "name": "How to Create Donut Chart Using JavaScript"
+    },
+    {
+      "x": "2023-06-19",
+      "value": 2,
+      "name": "How to Make Sunburst Chart in JavaScript"
+    },
+    {
+      "x": "2023-07-11",
+      "value": 2,
+      "name": "How to Visualize Data with Pareto Charts Using JavaScript"
+    },
+    {
+      "x": "2023-08-01",
+      "value": 2,
+      "name": "Building Bubble Chart with JavaScript"
+    },
+    {
+      "x": "2023-08-17",
+      "value": 2,
+      "name": "Creating Dynamic Linear Gauge"
+    },
+    {
+      "x": "2023-09-05",
+      "value": 2,
+      "name": "Stock Chart Creation in JavaScript: Step-by-Step Guide"
+    },
+    {
+      "x": "2023-09-18",
+      "value": 1,
+      "name": "IN PROGRESS"
+    },
+    {
+      "x": "2023-10-09",
+      "value": 0,
+      "name": "TO DO"
+    },
+    {
+      "x": "2023-10-23",
+      "value": 0,
+      "name": "TO DO"
+    },
+    {
+      "x": "2023-11-06",
+      "value": 0,
+      "name": "TO DO"
+    },
+    {
+      "x": "2023-11-20",
+      "value": 0,
+      "name": "TO DO"
+    },
+    {
+      "x": "2023-12-04",
+      "value": 0,
+      "name": "TO DO"
+    },
+    {
+      "x": "2023-12-18",
+      "value": 0,
+      "name": "TO DO"
+    }
+]

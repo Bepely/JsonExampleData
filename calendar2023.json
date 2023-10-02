@@ -1,96 +1,6 @@
 [
   {
-    "x": "2023-01-19",
-    "value": 2,
-    "name": "Visualizing Text Data Hierarchy with Word Trees"
-  },
-  {
-    "x": "2023-03-02",
-    "value": 2,
-    "name": "How to Build Venn Diagram Using JavaScript"
-  },
-  {
-    "x": "2023-03-16",
-    "value": 2,
-    "name": "How to Create Box-and-Whisker Plot in JavaScript"
-  },
-  {
-    "x": "2023-03-22",
-    "value": 2,
-    "name": "Creating Interactive Flow Maps with JavaScript"
-  },
-  {
-    "x": "2023-04-11",
-    "value": 2,
-    "name": "Building 3D Surface Plot in JavaScript"
-  },
-  {
-    "x": "2023-05-02",
-    "value": 2,
-    "name": "How to Create Candlestick Chart with JavaScript for Stock Analysis"
-  },
-  {
-    "x": "2023-05-18",
-    "value": 2,
-    "name": "How to Build Choropleth Map with JavaScript"
-  },
-  {
-    "x": "2023-05-30",
-    "value": 2,
-    "name": "How to Build Heatmap in JavaScript"
-  },
-  {
-    "x": "2023-06-13",
-    "value": 2,
-    "name": "How to Create Donut Chart Using JavaScript"
-  },
-  {
-    "x": "2023-06-19",
-    "value": 2,
-    "name": "How to Make Sunburst Chart in JavaScript"
-  },
-  {
-    "x": "2023-07-11",
-    "value": 2,
-    "name": "How to Visualize Data with Pareto Charts Using JavaScript"
-  },
-  {
-    "x": "2023-08-01",
-    "value": 2,
-    "name": "Building Bubble Chart with JavaScript"
-  },
-  {
-    "x": "2023-08-17",
-    "value": 2,
-    "name": "Creating Dynamic Linear Gauge"
-  },
-  {
-    "x": "2023-09-05",
-    "value": 2,
-    "name": "Stock Chart Creation in JavaScript: Step-by-Step Guide"
-  },
-  {
-    "x": "2023-09-18",
-    "value": 1,
-    "name": "IN PROGRESS"
-  },
-  {
-    "x": "2023-10-09",
-    "value": 0,
-    "name": "TO DO"
-  },
-  {
-    "x": "2023-10-23",
-    "value": 0,
-    "name": "TO DO"
-  },
-  {
-    "x": "2023-11-06",
-    "value": 0,
-    "name": "TO DO"
-  },
-  {
-    "x": "2023-11-20",
+    "x": "2023-12-18",
     "value": 0,
     "name": "TO DO"
   },
@@ -100,8 +10,431 @@
     "name": "TO DO"
   },
   {
-    "x": "2023-12-18",
+    "x": "2023-11-20",
     "value": 0,
     "name": "TO DO"
+  },
+  {
+    "x": "2023-11-06",
+    "value": 0,
+    "name": "TO DO"
+  },
+  {
+    "x": "2023-10-23",
+    "value": 0,
+    "name": "TO DO"
+  },
+  {
+    "x": "2023-10-09",
+    "value": 0,
+    "name": "TO DO"
+  },
+  {
+    "x": "2023-09-28",
+    "value": 2,
+    "name": "How to Build Pie Charts with JavaScript",
+    "link": "https://www.anychart.com/blog/2023/09/28/js-pie-charts/"
+  },
+  {
+    "x": "2023-09-05",
+    "value": 2,
+    "name": "Stock Chart Creation in JavaScript: Step-by-Step Guide",
+    "link": "https://www.anychart.com/blog/2023/09/05/stock-chart-javascript/"
+  },
+  {
+    "x": "2023-08-17",
+    "value": 2,
+    "name": "Creating Dynamic Linear Gauge",
+    "link": "https://www.anychart.com/blog/2023/08/17/linear-gauge-for-typing-speed-test/"
+  },
+  {
+    "x": "2023-08-01",
+    "value": 2,
+    "name": "Building Bubble Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2023/08/01/bubble-chart-js/"
+  },
+  {
+    "x": "2023-07-11",
+    "value": 2,
+    "name": "How to Visualize Data with Pareto Charts Using JavaScript",
+    "link": "https://www.anychart.com/blog/2023/07/11/visualize-pareto-charts-js/"
+  },
+  {
+    "x": "2023-06-19",
+    "value": 2,
+    "name": "How to Make Sunburst Chart in JavaScript",
+    "link": "https://www.anychart.com/blog/2023/06/19/sunburst-chart-js/"
+  },
+  {
+    "x": "2023-06-13",
+    "value": 2,
+    "name": "How to Create Donut Chart Using JavaScript",
+    "link": "https://www.anychart.com/blog/2023/06/13/donut-chart-js/"
+  },
+  {
+    "x": "2023-05-30",
+    "value": 2,
+    "name": "How to Build Heatmap in JavaScript",
+    "link": "https://www.anychart.com/blog/2023/05/30/heatmap-js/"
+  },
+  {
+    "x": "2023-05-18",
+    "value": 2,
+    "name": "How to Build Choropleth Map with JavaScript",
+    "link": "https://www.anychart.com/blog/2023/05/18/choropleth-map-javascript/"
+  },
+  {
+    "x": "2023-05-02",
+    "value": 2,
+    "name": "How to Create Candlestick Chart with JavaScript for Stock Analysis",
+    "link": "https://www.anychart.com/blog/2023/05/02/candlestick-chart-stock-analysis/"
+  },
+  {
+    "x": "2023-04-11",
+    "value": 2,
+    "name": "Building 3D Surface Plot in JavaScript",
+    "link": "https://www.anychart.com/blog/2023/04/11/3d-surface-plot/"
+  },
+  {
+    "x": "2023-03-22",
+    "value": 2,
+    "name": "Creating Interactive Flow Maps with JavaScript",
+    "link": "https://www.anychart.com/blog/2023/03/22/flow-map/"
+  },
+  {
+    "x": "2023-03-16",
+    "value": 2,
+    "name": "How to Create Box-and-Whisker Plot in JavaScript",
+    "link": "https://www.anychart.com/blog/2023/03/16/box-and-whisker-plot-javascript/"
+  },
+  {
+    "x": "2023-03-02",
+    "value": 2,
+    "name": "How to Build Venn Diagram Using JavaScript",
+    "link": "https://www.anychart.com/blog/2023/03/02/venn-diagram-js/"
+  },
+  {
+    "x": "2023-01-19",
+    "value": 2,
+    "name": "Visualizing Text Data Hierarchy with Word Trees",
+    "link": "https://www.anychart.com/blog/2023/01/19/visualizing-text-data-hierarchy/"
+  },
+  {
+    "x": "2022-12-29",
+    "value": 2,
+    "name": "Building Column Charts with JavaScript",
+    "link": "https://www.anychart.com/blog/2022/12/29/column-charts-javascript/"
+  },
+  {
+    "x": "2022-12-23",
+    "value": 2,
+    "name": "Creating Radar Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2022/12/23/radar-chart-javascript/"
+  },
+  {
+    "x": "2022-11-16",
+    "value": 2,
+    "name": "How to Make Bubble Maps in JavaScript",
+    "link": "https://www.anychart.com/blog/2022/11/16/bubble-maps-js/"
+  },
+  {
+    "x": "2022-10-14",
+    "value": 2,
+    "name": "How to Create Word Tree Using JavaScript",
+    "link": "https://www.anychart.com/blog/2022/10/14/word-tree-js/"
+  },
+  {
+    "x": "2022-09-14",
+    "value": 2,
+    "name": "Making Line Chart — and Step Line Chart — in JavaScript",
+    "link": "https://www.anychart.com/blog/2022/09/14/line-chart-in-javascript/"
+  },
+  {
+    "x": "2022-09-08",
+    "value": 2,
+    "name": "Creating Circle Packing Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2022/09/08/circle-packing-chart/"
+  },
+  {
+    "x": "2022-08-15",
+    "value": 2,
+    "name": "How to Create Mosaic Plot with JavaScript",
+    "link": "https://www.anychart.com/blog/2022/08/15/mosaic-plot/"
+  },
+  {
+    "x": "2022-08-04",
+    "value": 2,
+    "name": "How to Make Timeline Chart (in JavaScript)",
+    "link": "https://www.anychart.com/blog/2022/08/04/timeline-chart/"
+  },
+  {
+    "x": "2022-07-15",
+    "value": 2,
+    "name": "Creating Connector Map with JavaScript",
+    "link": "https://www.anychart.com/blog/2022/07/15/connector-map/"
+  },
+  {
+    "x": "2022-06-17",
+    "value": 2,
+    "name": "Building Scatter Chart in JavaScript",
+    "link": "https://www.anychart.com/blog/2022/06/17/scatter-chart-js/"
+  },
+  {
+    "x": "2022-06-08",
+    "value": 2,
+    "name": "How to Make Treemap Using JS",
+    "link": "https://www.anychart.com/blog/2022/06/08/treemap-js/"
+  },
+  {
+    "x": "2022-05-25",
+    "value": 2,
+    "name": "How to Create Sankey Diagram (with JavaScript)",
+    "link": "https://www.anychart.com/blog/2022/05/25/sankey-diagram-js/"
+  },
+  {
+    "x": "2022-05-12",
+    "value": 2,
+    "name": "Building Area Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2022/05/12/area-chart-js/"
+  },
+  {
+    "x": "2022-04-12",
+    "value": 2,
+    "name": "How to Create Stacked Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2022/04/12/stacked-chart/"
+  },
+  {
+    "x": "2022-03-25",
+    "value": 2,
+    "name": "Creating Bullseye Chart with JS to Visualize the COVID-19 Vaccine Pipeline",
+    "link": "https://www.anychart.com/blog/2022/03/25/bullseye-chart-js/"
+  },
+  {
+    "x": "2022-13-15",
+    "value": 2,
+    "name": "How to Build Circle Packing Chart in JavaScript",
+    "link": "https://www.anychart.com/blog/2022/03/15/circle-packing-chart-js/"
+  },
+  {
+    "x": "2022-02-24",
+    "value": 2,
+    "name": "Building Stock Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2022/02/24/stock-chart-js/"
+  },
+  {
+    "x": "2022-02-11",
+    "value": 2,
+    "name": "How to Create Calendar Chart in JavaScript",
+    "link": "https://www.anychart.com/blog/2022/02/11/calendar-chart-js/"
+  },
+  {
+    "x": "2022-02-03",
+    "value": 2,
+    "name": "Creating Error Chart in JavaScript",
+    "link": "https://www.anychart.com/blog/2022/02/03/error-chart-js/"
+  },
+  {
+    "x": "2022-01-13",
+    "value": 2,
+    "name": "How to Create Sparklines with JavaScript",
+    "link": "https://www.anychart.com/blog/2022/01/13/sparklines-javascript/"
+  },
+  {
+    "x": "2021-12-15",
+    "value": 2,
+    "name": "How to Build Surface Chart Using JavaScript",
+    "link": "https://www.anychart.com/blog/2021/12/15/surface-chart-javascript/"
+  },
+  {
+    "x": "2021-11-11",
+    "value": 2,
+    "name": "How to Make JavaScript Polar Chart",
+    "link": "https://www.anychart.com/blog/2021/11/11/javascript-polar-chart/"
+  },
+  {
+    "x": "2021-10-20",
+    "value": 2,
+    "name": "Creating Linear Gauge Chart in JavaScript — Tutorial",
+    "link": "https://www.anychart.com/blog/2021/10/20/linear-gauge-chart-javascript/"
+  },
+  {
+    "x": "2021-10-04",
+    "value": 2,
+    "name": "Building Word Tree Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2021/10/04/javascript-word-tree-chart/"
+  },
+  {
+    "x": "2021-09-21",
+    "value": 2,
+    "name": "How to Build Interactive Connector Map with JavaScript",
+    "link": "https://www.anychart.com/blog/2021/09/21/connector-map-javascript/"
+  },
+  {
+    "x": "2021-09-07",
+    "value": 2,
+    "name": "How to Create Financial Open-High-Low-Close (OHLC) Chart Using JavaScript",
+    "link": "https://www.anychart.com/blog/2021/09/07/ohlc-chart-javascript/"
+  },
+  {
+    "x": "2021-08-17",
+    "value": 2,
+    "name": "Building JS Resource Gantt Chart to Visualize Tokyo 2020 Paralympic Schedule",
+    "link": "https://www.anychart.com/blog/2021/08/17/js-resource-gantt-chart/"
+  },
+  {
+    "x": "2021-07-28",
+    "value": 2,
+    "name": "How to Create Line Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2021/07/28/line-chart-js/"
+  },
+  {
+    "x": "2021-07-13",
+    "value": 2,
+    "name": "Creating JS Flow Map in Four Steps",
+    "link": "https://www.anychart.com/blog/2021/07/13/flow-map-js/"
+  },
+  {
+    "x": "2021-07-06",
+    "value": 2,
+    "name": "How to Build JavaScript Donut Charts",
+    "link": "https://www.anychart.com/blog/2021/07/06/donut-charts-javascript/"
+  },
+  {
+    "x": "2021-06-17",
+    "value": 2,
+    "name": "How to Create Interactive Timeline Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2021/06/17/timeline-chart-javascript/"
+  },
+  {
+    "x": "2021-05-11",
+    "value": 2,
+    "name": "Building Mosaic Chart in JavaScript",
+    "link": "https://www.anychart.com/blog/2021/05/11/mosaic-chart-js/"
+  },
+  {
+    "x": "2021-04-20",
+    "value": 2,
+    "name": "Making JS Dot Density Map to Visualize Shipping Ports Across Globe",
+    "link": "https://www.anychart.com/blog/2021/04/20/js-dot-density-map/"
+  },
+  {
+    "x": "2021-03-16",
+    "value": 2,
+    "name": "Creating Waterfall Chart with JS",
+    "link": "https://www.anychart.com/blog/2021/03/16/waterfall-chart-js/"
+  },
+  {
+    "x": "2021-03-02",
+    "value": 2,
+    "name": "How to Create Diverging Bar Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2021/03/02/diverging-bar-chart-javascript/"
+  },
+  {
+    "x": "2021-02-16",
+    "value": 2,
+    "name": "How to Build Pareto Chart in JavaScript",
+    "link": "https://www.anychart.com/blog/2021/02/16/pareto-chart-javascript/"
+  },
+  {
+    "x": "2021-02-3",
+    "value": 2,
+    "name": "Creating JavaScript Angular Gauge",
+    "link": "https://www.anychart.com/blog/2021/02/03/angular-gauge-javascript/"
+  },
+  {
+    "x": "2021-01-25",
+    "value": 2,
+    "name": "How to Create Bubble Map with JavaScript to Visualize Election Results",
+    "link": "https://www.anychart.com/blog/2021/01/25/bubble-map-javascript/"
+  },
+  {
+    "x": "2020-12-22",
+    "value": 2,
+    "name": "Building Marimekko Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2020/12/22/marimekko-chart-javascript/"
+  },
+  {
+    "x": "2020-12-08",
+    "value": 2,
+    "name": "How I Created Sunburst Chart Using JavaScript to Visualize COVID-19 Data",
+    "link": "https://www.anychart.com/blog/2020/12/08/sunburst-chart-javascript-to-visualize-covid-19-data/"
+  },
+  {
+    "x": "2020-11-25",
+    "value": 2,
+    "name": "Mais Hatem Visualizes Reddit Data Using AnyChart JS Charting Library",
+    "link": "https://www.anychart.com/blog/2020/11/25/reddit-data-word-cloud-visualization/"
+  },
+  {
+    "x": "2020-11-11",
+    "value": 2,
+    "name": "How to Create Venn Diagram with JavaScript",
+    "link": "https://www.anychart.com/blog/2020/11/11/venn-diagram-javascript/"
+  },
+  {
+    "x": "2020-09-22",
+    "value": 2,
+    "name": "How to Build Box Plot Using JavaScript: Visualizing World Happiness",
+    "link": "https://www.anychart.com/blog/2020/09/22/box-plot-javascript/"
+  },
+  {
+    "x": "2020-08-04",
+    "value": 2,
+    "name": "Connecting MySQL Database to JS Chart Using PHP",
+    "link": "https://www.anychart.com/blog/2020/08/04/mysql-database-php-js-chart/"
+  },
+  {
+    "x": "2020-07-22",
+    "value": 2,
+    "name": "How to Create JavaScript Network Graph",
+    "link": "https://www.anychart.com/blog/2020/07/22/network-graph-javascript/"
+  },
+  {
+    "x": "2020-07-07",
+    "value": 2,
+    "name": "Building JavaScript Radar Chart",
+    "link": "https://www.anychart.com/blog/2020/07/07/radar-chart-js/"
+  },
+  {
+    "x": "2020-06-10",
+    "value": 2,
+    "name": "How to Create Stacked Area Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2020/06/10/stacked-area-chart-javascript-tutorial/"
+  },
+  {
+    "x": "2020-05-27",
+    "value": 2,
+    "name": "Building JavaScript Scatter Plot Module",
+    "link": "https://www.anychart.com/blog/2020/05/27/scatter-plot-js-tutorial/"
+  },
+  {
+    "x": "2020-05-06",
+    "value": 2,
+    "name": "Creating Choropleth Map Data Visualization Using JavaScript, on COVID-19 Stats",
+    "link": "https://www.anychart.com/blog/2020/05/06/javascript-choropleth-map-tutorial/"
+  },
+  {
+    "x": "2020-04-06",
+    "value": 2,
+    "name": "Creating JavaScript Column and Bar Charts on COVID-19 Data",
+    "link": "https://www.anychart.com/blog/2020/04/06/javascript-column-bar-charts/"
+  },
+  {
+    "x": "2020-03-25",
+    "value": 2,
+    "name": "Making JS Candlestick Chart in Four Simple Steps",
+    "link": "https://www.anychart.com/blog/2020/03/25/js-candlestick-chart-steps/"
+  },
+  {
+    "x": "2020-03-3",
+    "value": 2,
+    "name": "How to Create JavaScript Bubble Chart — Tutorial for Web Developers",
+    "link": "https://www.anychart.com/blog/2020/03/03/bubble-chart-javascript-tutorial/"
+  },
+  {
+    "x": "2020-02-26",
+    "value": 2,
+    "name": "Creating Heat Map Chart Using JavaScript",
+    "link": "https://www.anychart.com/blog/2020/02/26/heat-map-chart-create-javascript/"
   }
 ]

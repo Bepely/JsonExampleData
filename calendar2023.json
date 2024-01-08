@@ -1,33 +1,39 @@
 [
   {
-    "x": "2023-12-18",
-    "value": 0,
-    "name": "Expected Publication"
+    "x": "2023-12-22",
+    "value": 1,
+    "name": "How to Build Point Map with JavaScript",
+    "link": "https://www.anychart.com/blog/2023/12/22/point-map-js/"
   },
   {
-    "x": "2023-12-04",
-    "value": 0,
-    "name": "Expected Publication"
+    "x": "2023-11-27",
+    "value": 1,
+    "name": "How to Make Mekko Chart Using JavaScript",
+    "link": "https://www.anychart.com/blog/2023/11/27/mekko-chart-js/"
   },
   {
-    "x": "2023-11-20",
-    "value": 0,
-    "name": "Expected Publication"
+    "x": "2023-11-13",
+    "value": 1,
+    "name": "OHLC Chart: Understanding & Creating in JavaScript Step-by-Step",
+    "link": "https://www.anychart.com/blog/2023/11/13/ohlc-chart-js/"
   },
   {
-    "x": "2023-11-06",
-    "value": 0,
-    "name": "Expected Publication"
+    "x": "2023-11-02",
+    "value": 1,
+    "name": "Building Waterfall Charts in JS",
+    "link": "https://www.anychart.com/blog/2023/11/02/waterfall-charts-javascript/"
   },
   {
-    "x": "2023-10-23",
-    "value": 0,
-    "name": "Expected Publication"
+    "x": "2023-10-216",
+    "value": 1,
+    "name": "How to Create Resource Chart with JavaScript",
+    "link": "https://www.anychart.com/blog/2023/10/16/resource-chart-javascript/"
   },
   {
-    "x": "2023-10-09",
-    "value": 0,
-    "name": "Calendar chart tutorial"
+    "x": "2023-10-03",
+    "value": 1,
+    "name": "Nobel Laureates’ Countries, or Making Tag Cloud with JavaScript",
+    "link": "https://www.anychart.com/blog/2023/10/03/nobel-tag-cloud-js/"
   },
   {
     "x": "2023-09-28",
